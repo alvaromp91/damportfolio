@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Tremendo Tutorialaso</title>
+</head>
+<body style="background-color:peachpuff;">
+
+<h1 style="text-align:center;">El tutorial que emocionó a Spielberg</h1><hr>
+<img src="https://www.biografiasyvidas.com/biografia/s/fotos/spielberg_steven.jpg" width="420" height="492"><hr>
+<p style="color:blueviolet">Hola soy un párrafo :)</p>
+<p style="font-family:cursive;">Probando el rollo este... comic sans a tope!!</p>
+<p style="color:royalblue;"> Si te aburres del <br>tutorial pulsa <a href="https://www.youtube.com" target="_blank"> AQUÍ</a></p>
+
+
+</body>
+</html>
